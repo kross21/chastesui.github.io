@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-	<title>kross21</title>
+	<title>colourfol</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="keywords" content="小石头" />
 	<meta name="description" content="石头大爷" />
@@ -48,51 +48,51 @@ var _hmt = _hmt || [];
  <div class="row"> 
  <div class="col-xs-4 col-md-4"> 
  <a href="https://kross21.github.io" class="thumbnail"> 
- <img src="img/01.jpg" alt="..."> 
+ <img src="img/1.jpg" alt="..."> 
  </a> 
  </div> 
  <div class="col-xs-4 col-md-4"> 
  <a href="https://kross21.github.io" class="thumbnail"> 
- <img src="img/02.jpg" alt="..."> 
+ <img src="img/2.jpg" alt="..."> 
  </a> 
  </div> 
  <div class="col-xs-4 col-md-4"> 
  <a href="https://kross21.github.io" class="thumbnail"> 
- <img src="img/03.jpg" alt="..."> 
- </a> 
- </div> 
- </div> 
- <div class="row"> 
- <div class="col-xs-4 col-md-4"> 
- <a href="https://kross21.github.io" class="thumbnail"> 
- <img src="img/04.jpg" alt="..."> 
- </a> 
- </div> 
- <div class="col-xs-4 col-md-4"> 
- <a href="https://kross21.github.io" class="thumbnail"> 
- <img src="img/10.jpg" alt="..."> 
- </a> 
- </div> 
- <div class="col-xs-4 col-md-4"> 
- <a href="https://kross21.github.io" class="thumbnail"> 
- <img src="img/06.jpg" alt="..."> 
+ <img src="img/3.jpg" alt="..."> 
  </a> 
  </div> 
  </div> 
  <div class="row"> 
  <div class="col-xs-4 col-md-4"> 
  <a href="https://kross21.github.io" class="thumbnail"> 
- <img src="img/07.jpg" alt="..."> 
+ <img src="img/4.jpg" alt="..."> 
  </a> 
  </div> 
  <div class="col-xs-4 col-md-4"> 
  <a href="https://kross21.github.io" class="thumbnail"> 
- <img src="img/08.jpg" alt="..."> 
+ <img src="img/13.jpg" alt="..."> 
  </a> 
  </div> 
  <div class="col-xs-4 col-md-4"> 
  <a href="https://kross21.github.io" class="thumbnail"> 
- <img src="img/09.jpg" alt="..."> 
+ <img src="img/6.jpg" alt="..."> 
+ </a> 
+ </div> 
+ </div> 
+ <div class="row"> 
+ <div class="col-xs-4 col-md-4"> 
+ <a href="https://kross21.github.io" class="thumbnail"> 
+ <img src="img/7.jpg" alt="..."> 
+ </a> 
+ </div> 
+ <div class="col-xs-4 col-md-4"> 
+ <a href="https://kross21.github.io" class="thumbnail"> 
+ <img src="img/8.jpg" alt="..."> 
+ </a> 
+ </div> 
+ <div class="col-xs-4 col-md-4"> 
+ <a href="https://kross21.github.io" class="thumbnail"> 
+ <img src="img/9.jpg" alt="..."> 
  </a> 
  </div> 
  </div> 
