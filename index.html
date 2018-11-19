@@ -69,7 +69,7 @@
 				<div class="col-xs-4 col-md-4">
 					<a href="https://kross21.github.io" class="thumbnail">
 						<!-- 中心图片  替换src中路径 -->
-						<img src="img/010.jpg" alt="..." style="height: 166.9px;">
+						<img src="img/011.png" alt="...">
 					</a>
 				</div>
 				<div class="col-xs-4 col-md-4">
@@ -97,6 +97,13 @@
 			</div>
 		</div>
 
-	<audio src="music/bgm1.mp3" autoplay="autoplay"></audio>
+		<audio src="music/bgm1.mp3" autoplay="autoplay" id="vd"></audio>
+		<script type="text/javascript">
+			var music = document.getElementById("vd"); //获取ID  
+			console.log(music);
+			if (music.paused) { //判读是否播放  
+				music.play(); //没有就播放  
+			}
+		</script>
 	</body>
 </html>
